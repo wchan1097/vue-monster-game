@@ -1,29 +1,18 @@
-# README #
+# monster-game
 
-This README would normally document whatever steps are necessary to get your application up and running.
+> A Vue.js project
 
-### What is this repository for? ###
+## Build Setup
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+``` bash
+# install dependencies
+npm install
 
-### How do I get set up? ###
+# serve with hot reload at localhost:8080
+npm run dev
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+# build for production with minification
+npm run build
+```
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
